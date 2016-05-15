@@ -1,0 +1,35 @@
+body{
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+	background-image: url(../img/pexels-photo.jpg);
+}
+
+.jumbotron {
+	background-size: cover;
+	background-image: url(../img/training-train-lime-barbell-39688.jpeg);
+	border: solid 0px #d3d3d3;
+	border-radius: 15%;
+}
+
+h1{
+	font-size: 200%;
+	font-family: Impact, Charcoal,"Courier New", Courier, monospace;
+	text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 10%;
+}
+
+a{
+	background: black !important;
+	text-decoration: none !important;
+}
+
+button{
+	background: black !important;
+	background-color: #d3d3d3 !important;
+}
