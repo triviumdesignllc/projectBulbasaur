@@ -11,3 +11,21 @@ body {
 footer {
     margin: 50px 0;
 }
+
+.jumbotron {
+    background-color: #B5AAD5;
+    width: 399px;
+    height: 900px;
+    overflow-y: scroll;
+    overflow-x:hidden;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+p {
+    font-size: 30px;
+    font-size: 3.5vw;
+}
