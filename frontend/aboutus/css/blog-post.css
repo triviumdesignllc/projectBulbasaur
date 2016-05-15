@@ -13,10 +13,10 @@ footer {
 }
 
 .jumbotron {
-    background-color: #B5AAD5;
+    background-color: #C0C8AB;
     width: 399px;
     height: 900px;
-    overflow-y: scroll;
+    overflow-y: auto;
     overflow-x:hidden;
 }
 
@@ -28,4 +28,10 @@ html, body {
 p {
     font-size: 30px;
     font-size: 3.5vw;
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+
+.lead {
+    font-size:  28px;
+   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 }
