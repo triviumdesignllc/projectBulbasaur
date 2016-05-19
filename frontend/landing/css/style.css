@@ -31,5 +31,12 @@ a{
 
 button{
 	background: black !important;
-	background-color: #d3d3d3 !important;
+	background-color: #ffdd46 !important;
+	color: #300000;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 60px 0 rgba(0,0,0,0.19);
+  	width: 200px;
+  	transition: all 0.5s;
+  	cursor: pointer;
+  	margin: 5px;
+	
 }
